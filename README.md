@@ -61,7 +61,7 @@ Learn and build your own ASP.NET Core Blazor Blog by following these key steps:
 
 ## Connect with Abkhan on Fiverr
 
-Elevate your learning experience with one-on-one online sessions on Fiverr. Get work done or learn Next.js with Abkhan's expertise.
+Elevate your learning experience with one-on-one online sessions on Fiverr. Get work done or learn dotnet 8 with Abkhan's expertise.
 [Fiverr Session Link: https://www.fiverr.com/share/wmqm2r]
 
 ## Explore More
