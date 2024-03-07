@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWCwn20n67Mir7cwdvCOpPzU5CuKIRGnG4JXIuTEuDgE73uME4m21kcwTIpKwoUqAgKMnvhY4Tl4WQYTUACjdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\StaticBlazorBlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbKhan\\.nuget\\packages\\markdig\\0.35.0\\markdig.0.35.0.nupkg.sha512"
+  ],
+  "logs": []
+}

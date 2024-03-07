@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StaticBlazorBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StaticBlazorBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\Images\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\oak-tree-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\oak-tree-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\oak-tree.jpg",
+      "PackagePath": "staticwebassets\\Images\\oak-tree.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant1-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant1-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant1.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant2.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant2_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant2_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant4.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant4_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant4_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant5.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant5_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant5_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant6.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\plant6_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\plant6_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\priscilla-du-preez-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\Images\\priscilla-du-preez-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\Images\\priscilla-du-preez.jpg",
+      "PackagePath": "staticwebassets\\Images\\priscilla-du-preez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\about.svg",
+      "PackagePath": "staticwebassets\\about.svg"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\A-Closer-Look-at-The-Nature-of-Oak-Trees.md",
+      "PackagePath": "staticwebassets\\blogs\\A-Closer-Look-at-The-Nature-of-Oak-Trees.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\Fascinating-World-of-Mycorrhizal-Fungi.md",
+      "PackagePath": "staticwebassets\\blogs\\Fascinating-World-of-Mycorrhizal-Fungi.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\The-Enchanting-Beauty-of-Orchids.md",
+      "PackagePath": "staticwebassets\\blogs\\The-Enchanting-Beauty-of-Orchids.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\The-Enigmatic-World-of-Carnivorous-Plants.md",
+      "PackagePath": "staticwebassets\\blogs\\The-Enigmatic-World-of-Carnivorous-Plants.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\The-Healing-Power-of-Aloe-Vera.md",
+      "PackagePath": "staticwebassets\\blogs\\The-Healing-Power-of-Aloe-Vera.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\The-Marvelous-World-of-Bonsai.md",
+      "PackagePath": "staticwebassets\\blogs\\The-Marvelous-World-of-Bonsai.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\The-Secret-Lives-of-Succulents.md",
+      "PackagePath": "staticwebassets\\blogs\\The-Secret-Lives-of-Succulents.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\blogs\\Tree-Priscilla-Du-Preez.md",
+      "PackagePath": "staticwebassets\\blogs\\Tree-Priscilla-Du-Preez.md"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AbKhan\\Desktop\\StaticBlazorBlog\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StaticBlazorBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StaticBlazorBlog.props",
+      "PackagePath": "build\\StaticBlazorBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StaticBlazorBlog.props",
+      "PackagePath": "buildMultiTargeting\\StaticBlazorBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StaticBlazorBlog.props",
+      "PackagePath": "buildTransitive\\StaticBlazorBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

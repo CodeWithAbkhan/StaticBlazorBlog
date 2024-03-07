@@ -1,0 +1,41 @@
+﻿@page "/{slug}"
+@inject BlogService blogService;
+
+<div class="container">
+    <div class="row">
+        @if(blogPost!=null)
+        {
+            if(blogPost.FeaturedImage!=null)
+            {
+                <div class="d-flex justify-content-center">
+                    <img src="@blogPost.FeaturedImage" class="rounded my-2" 
+                    alt="@blogPost.Description" 
+                    loading="lazy"
+                    style="height:350px; width:100%; object-fit:cover" />
+
+
+                </div>
+            }
+            <h1 class="display-3 mb-2" >@blogPost.Title</h1>
+            <div class="wrap">
+               @((MarkupString)blogPost.Content)
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
+@code {
+  [Parameter]
+  public string slug {get; set;} = String.Empty;
+    private BlogPost blogPost;
+    protected override void OnInitialized()
+    {
+        blogPost =  blogService.GetBlogBySlug(slug);
+        
+    }
+
+
+}

@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Components\Pages\About.razor" />
+    <Content Remove="Components\Pages\Blogs.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Pages\About.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\Hero.razor" />
+    <_ContentIncludedByDefault Remove="Components\Pages\About.razor" />
+    <_ContentIncludedByDefault Remove="Components\Pages\BlogCard.razor" />
+    <_ContentIncludedByDefault Remove="Components\Pages\Blogs.razor" />
+    <_ContentIncludedByDefault Remove="Components\Pages\SingleBlog.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Components\Pages\About.razor" />
+    <None Include="Components\Pages\Blogs.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Pages\Blogs.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Hero.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Pages\BlogCard.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Pages\SingleBlog.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Markdig" Version="0.35.0" />
+  </ItemGroup>
+
+</Project>

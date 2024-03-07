@@ -1,0 +1,30 @@
+﻿@page "/"
+@inject BlogService blogService
+<PageTitle>Home</PageTitle>
+<HeadContent>
+  <meta name="description" content="Blazord blog home page - all blogs"
+</HeadContent>
+
+
+<div class="container">
+ <div class="row">
+    <!-- Hero Session -->
+   <Hero />
+    <h1 class="display-5 text-muted">List of All Posts </h1>
+    @foreach(var blog in listBlogs)
+    {
+        <!-- blog component rendering -->
+       <BlogCard blog="@blog" />
+    }
+ </div>
+</div>                      
+
+@code {
+    private List<BlogPost> listBlogs = new();
+
+        protected override void OnInitialized()
+        {
+          var  listBlogPost = blogService.GetBlogPosts();
+          listBlogs = listBlogPost.ToList();
+        }
+}

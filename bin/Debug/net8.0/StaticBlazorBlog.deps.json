@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StaticBlazorBlog/1.0.0": {
+        "dependencies": {
+          "Markdig": "0.35.0"
+        },
+        "runtime": {
+          "StaticBlazorBlog.dll": {}
+        }
+      },
+      "Markdig/0.35.0": {
+        "runtime": {
+          "lib/net8.0/Markdig.dll": {
+            "assemblyVersion": "0.35.0.0",
+            "fileVersion": "0.35.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticBlazorBlog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Markdig/0.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OedDgytYj2SwnfEW1YB3SsoV9fJwQSCOBFYid6yShaeSBRxT27n5DVpig35vhE6UKB3R2z/dc1oJwc366MpiCg==",
+      "path": "markdig/0.35.0",
+      "hashPath": "markdig.0.35.0.nupkg.sha512"
+    }
+  }
+}
